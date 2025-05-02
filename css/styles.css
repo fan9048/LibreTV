@@ -1,17 +1,17 @@
 :root {
-    --primary-color: #4e6780;        /* 柔和深蓝灰 */
-    --primary-light: #6f8ca3;        /* 浅雾蓝变体 */
-    --secondary-color: #1a1d23;      /* 暗夜灰背景 */
-    --accent-color: #ffb993;         /* 柔橙点缀色 */
-    --text-color: #eaeff2;           /* 柔白字体（不刺眼） */
-    --text-muted: #98a2ac;           /* 灰蓝说明文字 */
-    --border-color: rgba(255, 185, 147, 0.08);
-    --page-gradient-start: #1a1d23;
-    --page-gradient-end: #222831;
-    --card-gradient-start: #20242c;
-    --card-gradient-end: #2a313b;
-    --card-accent: rgba(255, 185, 147, 0.06);
-    --card-hover-border: rgba(255, 185, 147, 0.2);
+  --primary-color: #90a4ae;        /* 雾蓝主色，冷静不压抑 */
+  --primary-light: #b0bec5;        /* 雾蓝亮变体 */
+  --secondary-color: #f1f4f8;      /* 柔白背景，非纯白，缓解刺激 */
+  --accent-color: #ffb680;         /* 暖橘强调，像小台灯光 */
+  --text-color: #2e3c43;           /* 深蓝灰，柔和不刺眼 */
+  --text-muted: #7a8a94;           /* 冷灰辅助文字 */
+  --border-color: rgba(144, 164, 174, 0.1);
+  --page-gradient-start: #eef2f5;  /* 柔雾白过渡 */
+  --page-gradient-end: #dce3ea;
+  --card-gradient-start: #f7f9fa;  /* 卡片背景不全白 */
+  --card-gradient-end: #e8edf0;
+  --card-accent: rgba(255, 182, 128, 0.06);  /* 卡片高光，温暖柔光 */
+  --card-hover-border: rgba(255, 182, 128, 0.2); /* 悬停时暖橘光晕 */
 }
 
 .page-bg {
