@@ -1,17 +1,17 @@
 :root {
-    --primary-color: #e6b8c9;        /* 柔和豆沙粉 */
-    --primary-light: #f4dce4;        /* 浅绵粉变体 */
-    --secondary-color: #fffaf7;      /* 牛奶白背景 */
-    --accent-color: #a4bfa7;         /* 马卡龙青绿色点缀 */
-    --text-color: #4a3f41;           /* 可可棕正文色 */
-    --text-muted: #a59b9b;           /* 柔灰注释色 */
-    --border-color: rgba(230, 184, 201, 0.15);
-    --page-gradient-start: #fffaf7;  
-    --page-gradient-end: #fef3f0;
-    --card-gradient-start: #ffffff;
-    --card-gradient-end: #fff4f7;
-    --card-accent: rgba(230, 184, 201, 0.08);
-    --card-hover-border: rgba(164, 191, 167, 0.25);
+    --primary-color: #4e6780;        /* 柔和深蓝灰 */
+    --primary-light: #6f8ca3;        /* 浅雾蓝变体 */
+    --secondary-color: #1a1d23;      /* 暗夜灰背景 */
+    --accent-color: #ffb993;         /* 柔橙点缀色 */
+    --text-color: #eaeff2;           /* 柔白字体（不刺眼） */
+    --text-muted: #98a2ac;           /* 灰蓝说明文字 */
+    --border-color: rgba(255, 185, 147, 0.08);
+    --page-gradient-start: #1a1d23;
+    --page-gradient-end: #222831;
+    --card-gradient-start: #20242c;
+    --card-gradient-end: #2a313b;
+    --card-accent: rgba(255, 185, 147, 0.06);
+    --card-hover-border: rgba(255, 185, 147, 0.2);
 }
 
 .page-bg {
