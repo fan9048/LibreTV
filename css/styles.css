@@ -1,17 +1,17 @@
 :root {
-  --primary-color: #a89bb6;        /* 暮紫主色，高级有气质 */
-  --primary-light: #cbbbd9;        /* 淡暮紫变体，柔和明亮 */
-  --secondary-color: #f4f2f8;      /* 柔紫白背景，避免刺眼 */
-  --accent-color: #ffaec0;         /* 温柔樱花粉点缀，甜而不腻 */
-  --text-color: #3e344a;           /* 紫灰文本色，沉静有分量 */
-  --text-muted: #8c8194;           /* 灰紫说明文字，温柔不过界 */
-  --border-color: rgba(168, 155, 182, 0.15);
-  --page-gradient-start: #f5f1fa;
-  --page-gradient-end: #e9e2ef;
-  --card-gradient-start: #fbfaff;
-  --card-gradient-end: #ede7f3;
-  --card-accent: rgba(168, 155, 182, 0.06);
-  --card-hover-border: rgba(255, 174, 192, 0.3);
+    --primary-color: #4e6780;        /* 柔和深蓝灰 */
+    --primary-light: #6f8ca3;        /* 浅雾蓝变体 */
+    --secondary-color: #1a1d23;      /* 暗夜灰背景 */
+    --accent-color: #ffb993;         /* 柔橙点缀色 */
+    --text-color: #eaeff2;           /* 柔白字体（不刺眼） */
+    --text-muted: #98a2ac;           /* 灰蓝说明文字 */
+    --border-color: rgba(255, 185, 147, 0.08);
+    --page-gradient-start: #1a1d23;
+    --page-gradient-end: #222831;
+    --card-gradient-start: #20242c;
+    --card-gradient-end: #2a313b;
+    --card-accent: rgba(255, 185, 147, 0.06);
+    --card-hover-border: rgba(255, 185, 147, 0.2);
 }
 
 .page-bg {
