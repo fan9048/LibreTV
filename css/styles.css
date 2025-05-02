@@ -1,17 +1,17 @@
 :root {
-    --primary-color: #ffb6c1;        /* 糖果粉主色 */
-    --primary-light: #ffe0e9;        /* 草莓奶油变体 */
-    --secondary-color: #fff5fb;      /* 牛奶粉背景 */
-    --accent-color: #c5a3ff;         /* 星紫强调色 */
-    --text-color: #744d6e;           /* 紫棕正文 */
-    --text-muted: #ae89aa;           /* 柔紫灰注释 */
-    --border-color: rgba(255, 182, 193, 0.2);
-    --page-gradient-start: #fff5fb;
-    --page-gradient-end: #fcecf5;
-    --card-gradient-start: #ffffff;
-    --card-gradient-end: #fff2fa;
-    --card-accent: rgba(255, 182, 193, 0.12);
-    --card-hover-border: rgba(197, 163, 255, 0.4);
+  --primary-color: #1d2b3b;        /* 深蓝色，安静而不沉闷 */
+  --primary-light: #2c3e52;        /* 深蓝灰变体，增加层次感 */
+  --secondary-color: #161e2a;      /* 非纯黑背景，保持柔和 */
+  --accent-color: #f39c12;         /* 暖黄色点缀色，适合夜间氛围 */
+  --text-color: #ecf0f1;           /* 亮灰白，柔和不刺眼 */
+  --text-muted: #7f8c8d;           /* 淡灰色次级文本 */
+  --border-color: rgba(243, 156, 18, 0.15);
+  --page-gradient-start: #1d2b3b;  
+  --page-gradient-end: #2c3e52;
+  --card-gradient-start: #243141;
+  --card-gradient-end: #2d3a4a;
+  --card-accent: rgba(243, 156, 18, 0.1);
+  --card-hover-border: rgba(243, 156, 18, 0.3);
 }
 
 .page-bg {
