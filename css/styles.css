@@ -1,18 +1,18 @@
 :root {
-    /* 暖日奶茶风主题配色方案 */
-    --primary-color: #d9b18e;       /* 奶茶色主调 */
-    --primary-light: #f3e1cc;       /* 淡奶油变体 */
-    --secondary-color: #fffdf8;     /* 奶白背景 */
-    --accent-color: #ff9580;        /* 柔橘强调 */
-    --text-color: #4b3c2f;          /* 深咖文本 */
-    --text-muted: #a28f7d;          /* 咖灰次级文本 */
-    --border-color: rgba(217, 177, 142, 0.2);
-    --page-gradient-start: #fffaf5; 
-    --page-gradient-end: #fef0e7;   
-    --card-gradient-start: #fffdf8;
-    --card-gradient-end: #f8e9dd;
-    --card-accent: rgba(217, 177, 142, 0.08); 
-    --card-hover-border: rgba(255, 149, 128, 0.3);
+    /* 星光紫主题配色方案 */
+    --primary-color: #a78bfa;       /* 梦幻淡紫 */
+    --primary-light: #d8c4ff;       /* 浅薰衣草紫 */
+    --secondary-color: #1a1423;     /* 深夜黑紫背景 */
+    --accent-color: #ffb3ec;        /* 甜美星粉 */
+    --text-color: #f3eaff;          /* 柔白紫文本 */
+    --text-muted: #b49fcc;          /* 薄雾紫次级文本 */
+    --border-color: rgba(167, 139, 250, 0.2);
+    --page-gradient-start: #1a1423; 
+    --page-gradient-end: #2b1f3a;   
+    --card-gradient-start: #21182e;
+    --card-gradient-end: #322547;
+    --card-accent: rgba(167, 139, 250, 0.1); 
+    --card-hover-border: rgba(255, 179, 236, 0.4);
 }
 
 .page-bg {
