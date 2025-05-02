@@ -1,17 +1,17 @@
 :root {
-    --primary-color: #6ba675;        /* 苔绿主色 */
-    --primary-light: #a8d5a4;        /* 蕨绿变体 */
-    --secondary-color: #f6fbf4;      /* 晨露白背景 */
-    --accent-color: #d98e04;         /* 橙花强调色 */
-    --text-color: #3e513e;           /* 森林深绿正文 */
-    --text-muted: #8fa88f;           /* 青灰说明文本 */
-    --border-color: rgba(107, 166, 117, 0.15);
-    --page-gradient-start: #f6fbf4;
-    --page-gradient-end: #eaf7e4;
+    --primary-color: #ffb6c1;        /* 糖果粉主色 */
+    --primary-light: #ffe0e9;        /* 草莓奶油变体 */
+    --secondary-color: #fff5fb;      /* 牛奶粉背景 */
+    --accent-color: #c5a3ff;         /* 星紫强调色 */
+    --text-color: #744d6e;           /* 紫棕正文 */
+    --text-muted: #ae89aa;           /* 柔紫灰注释 */
+    --border-color: rgba(255, 182, 193, 0.2);
+    --page-gradient-start: #fff5fb;
+    --page-gradient-end: #fcecf5;
     --card-gradient-start: #ffffff;
-    --card-gradient-end: #eef9ed;
-    --card-accent: rgba(107, 166, 117, 0.08);
-    --card-hover-border: rgba(217, 142, 4, 0.3);
+    --card-gradient-end: #fff2fa;
+    --card-accent: rgba(255, 182, 193, 0.12);
+    --card-hover-border: rgba(197, 163, 255, 0.4);
 }
 
 .page-bg {
