@@ -1,18 +1,18 @@
 :root {
-    /* 赛博影视主题配色方案 - 柔和版 */
-    --primary-color: #00ccff;       /* 霓虹蓝主色调 */
-    --primary-light: #33d6ff;       /* 浅霓虹蓝变体 */
-    --secondary-color: #0f1622;     /* 深蓝黑背景色 */
-    --accent-color: #ff3c78;        /* 霓虹粉强调色 */
-    --text-color: #e6f2ff;          /* 柔和的蓝白色文本 */
-    --text-muted: #8599b2;          /* 淡蓝灰色次级文本 */
-    --border-color: rgba(0, 204, 255, 0.15);
-    --page-gradient-start: #0f1622; /* 深蓝黑起始色 */
-    --page-gradient-end: #192231;   /* 深靛蓝结束色 */
-    --card-gradient-start: #121b29; /* 卡片起始色 */
-    --card-gradient-end: #1c2939;   /* 卡片结束色 */
-    --card-accent: rgba(0, 204, 255, 0.12); /* 霓虹蓝卡片强调色 */
-    --card-hover-border: rgba(0, 204, 255, 0.5); /* 悬停边框颜色 */
+    /* 暖日奶茶风主题配色方案 */
+    --primary-color: #d9b18e;       /* 奶茶色主调 */
+    --primary-light: #f3e1cc;       /* 淡奶油变体 */
+    --secondary-color: #fffdf8;     /* 奶白背景 */
+    --accent-color: #ff9580;        /* 柔橘强调 */
+    --text-color: #4b3c2f;          /* 深咖文本 */
+    --text-muted: #a28f7d;          /* 咖灰次级文本 */
+    --border-color: rgba(217, 177, 142, 0.2);
+    --page-gradient-start: #fffaf5; 
+    --page-gradient-end: #fef0e7;   
+    --card-gradient-start: #fffdf8;
+    --card-gradient-end: #f8e9dd;
+    --card-accent: rgba(217, 177, 142, 0.08); 
+    --card-hover-border: rgba(255, 149, 128, 0.3);
 }
 
 .page-bg {
